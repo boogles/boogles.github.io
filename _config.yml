@@ -1,0 +1,10 @@
+name: "Brandon High"
+description: "Developer For The Win!"
+
+url: "http://brandon-high.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
